@@ -1,0 +1,6 @@
+{
+  "name": "M.F.I. Public School",
+  "description": "Unified school management dashboard for pending fees, teacher salaries, student attendance, and seamless parent-teacher communication under Director Aakil Yusuf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
